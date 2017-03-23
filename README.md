@@ -1,3 +1,3 @@
 # Bouncing Balls
 
-A small Java program. Simulates bouncing balls using a propper "game-like" loop with double buffered rendering.
+A small Java program that simulates bouncing balls using a "game-like" loop with double buffered rendering.
